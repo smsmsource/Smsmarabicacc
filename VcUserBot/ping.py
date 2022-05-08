@@ -89,7 +89,7 @@ async def goodnight(client, m: Message):
 async def سورس(client, m: Message):
     GN = f"""
 <i> ⩹━✗🍷𝑺𝑴𝑺𝑴 𝑺𝑶𝑼𝑹𝑪𝑬🍷✗━⩺
-صآحب السورس : @DEV_SMSM 
+صآحب السورس : @SMSM_ELROSY
 ⩹━✗🍷𝑺𝑴𝑺𝑴 𝑺𝑶𝑼𝑹𝑪𝑬🍷✗━⩺ </i>
 """
     await m.reply(GN)
